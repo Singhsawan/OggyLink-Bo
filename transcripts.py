@@ -1,13 +1,22 @@
 # Text Stringss
 
-start_msg_txt = '''<b>Hey There, {}
+start_msg_txt = '''**Hello, {}
+I Am ziplinker.net, Bulk Link Converter. I Can Convert Links Directly From Your ShortnerFly Account,
 
-🔀 I Can Short any Links
-💬 Just Send Me Your Post/Links
-🔗 I Will Shorten All Links In It 
+1. Go To 👉 https://ziplinker.net/member/tools/api  
+2. Than Copy API Key
+3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
-🔂 I Can Convert to [OggyLink.com](https://OggyLink.com/)
-©️ Powered By @CrazeBots</b>'''
+**/api(space)API Key 
+(See Example.👇)
+Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+
+**➕ Hit** 👉 /Features To Know More Features Of This Bot.
+**➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
+**➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
+
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ziplinker than **contact** at 👉 @J_shree_ram (all **shortners** support available.)
+'''
 
 about_txt = '''Hlw {}.\n**🤖 Name :** OggyLink Shortener
 **🔠 Language :** Python3

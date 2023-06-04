@@ -35,6 +35,6 @@ about_btns = InlineKeyboardMarkup([
 
 # Connect button
 connect_btns = InlineKeyboardMarkup([
-    [InlineKeyboardButton("GET API TOKEN 🔑", url="https://oggyLink.com/member/tools/api")],
+    [InlineKeyboardButton("GET API TOKEN 🔑", url="https://omnifly.in.net/member/tools/api")],
     [InlineKeyboardButton("❓ HELP", callback_data="help_data"), InlineKeyboardButton("◀️ Back️", callback_data="back_data")]
 ])

@@ -5,12 +5,12 @@ from pyrogram.errors import MediaCaptionTooLong
 from transcripts import *
 
 
-sudo_users = [1953040213, 5144980226, 874964742,839221827, 5294965763, 5317652430, 5141357700]
+sudo_users = [5651594253]
 
 # BOT INFO
-TOKEN = os.environ.get("BOT_TOKEN", "133:sdsdsd")
-API_HASH = os.environ.get("HASH", "ghghghghgh")
-API_ID = int(os.environ.get("ID", "123456"))
+TOKEN = os.environ.get("BOT_TOKEN", "6053293403:AAH1CVfHg-Yxfv2D-Ei9CvtV1tQVkziwuE0")
+API_HASH = os.environ.get("HASH", '31973315b0872a0478886de31a1e4848')
+API_ID = int(os.environ.get("ID", '29362464'))
 
 
 app = Client("Url-Short-app", api_id=API_ID,

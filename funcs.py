@@ -9,10 +9,10 @@ from cb_data import *
 
 
 # URL Shortner
-SHORT_API = '011fa9d202238764f8c23e300e6a8bb37b526271'
+SHORT_API = '9b1013e84fb0955bcb6c0d5f09cc379508b82811'
 API_PTN = r'[a-z0-9]{35,43}'
 
-REAL_URL = 'https://OggyLink.com/api?'
+REAL_URL = 'https://omnifly.in.net/api?'
 url_ptrn = r'https?://[^\s]+'
 
 # -----------------------------

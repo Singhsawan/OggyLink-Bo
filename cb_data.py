@@ -1,9 +1,9 @@
 from botbtns import *
 
-API_ID = 16514976
-API_HASH = '40bd8634b3836468bb2fb7eafe39d81a'
+API_ID = 29362464
+API_HASH = '31973315b0872a0478886de31a1e4848'
 
-TOKEN = '5661363625:AAEyBehhT25zbPnkWnAc_n15gCWKlseez6c'
+TOKEN = '6053293403:AAH1CVfHg-Yxfv2D-Ei9CvtV1tQVkziwuE0'
 
 
 @app.on_callback_query(filters.regex('about_data'))

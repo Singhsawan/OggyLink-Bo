@@ -1,9 +1,9 @@
 import pymongo
 
 # ------------Database----------
-DB_URL = "mongodb+srv://mdisk:mdisk@cluster0.5f5kz5s.mongodb.net/?retryWrites=true&w=majority"
+DB_URL = "mongodb+srv://SawanSingh:sawansingh@cluster0.h2prshr.mongodb.net/?retryWrites=true&w=majority"
 mongo = pymongo.MongoClient(DB_URL)
-db = mongo["oggylink"]
+db = mongo["omnifly"]
 dbcol = db["users"]
 
 

@@ -1,9 +1,9 @@
 # Text Stringss
 
 start_msg_txt = '''**Hello, {}
-I Am omnifly.in.net, Bulk Link Converter. I Can Convert Links Directly From Your omnifly.in.net Account,
+I Am tajlink.com, Bulk Link Converter. I Can Convert Links Directly From Your tajlink.com Account,
 
-1. Go To 👉 https://omnifly.in.net/member/tools/api  
+1. Go To 👉 https://tajlink.com/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
@@ -15,14 +15,14 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of omnifly than **contact** at 👉 @J_shree_ram (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of tajlink than **contact** at 👉 @J_shree_ram (all **shortners** support available.)
 '''
 
-about_txt = '''Hlw {}.\n**🤖 Name :** omnifly Shortener
+about_txt = '''Hlw {}.\n**🤖 Name :** tajlink Shortener
 **🔠 Language :** Python3
 **📚 Library :** Pyrogram
 **🧑🏻‍💻 Developer :** @J_shree_ram
-©️ Powered By @bot_channel_011'''
+©️ Powered By @technicaltaj'''
 
 connect_txt = '''SEND YOUR API TOKEN TO ME
 
@@ -31,56 +31,56 @@ Copy API Token From Website
 Paste & Send Token To Me
 
 Don't Have an Account.
-[Click Here to Create Free Account and Start Earning...](https://omnifly.in.net/ref/Sawan09)
+[Click Here to Create Free Account and Start Earning...](https://tajlink.com/ref/Sawan09)
 '''
 
-footer_txt = '''<b>Hello {name},\nI am omnifly.in.net Shortener,
+footer_txt = '''<b>Hello {name},\nI am tajlink.com Shortener,
 
 🌟 Just Type</b>👉 /footer footer-text
 
 Example:
 <code>/footer ━━━━━━━━━━━━━━━━━
 💁‍♀️ 🔥𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🔥 👇
-👉 https://t.me/omnifly_in_net</code>
+👉 https://t.me/technicaltaj</code>
 
 🤘 Hit 👉 /features <i>To Know More Features Of This bot.</i>
 
 <b>- Message @J_shree_ram For (Only Bot related Help) -</b>'''
 
-channel_link = """Hello {name}, I am omnifly.in.net, Bulk Link Converter. I Can Convert Links Directly From Your omnifly.in.net, 
+channel_link = """Hello {name}, I am tajlink.com, Bulk Link Converter. I Can Convert Links Directly From Your tajlink.com, 
 
 🌟 Type /add_channel (channel link or username)
 
 example:
-<code>/channel @J_shree_ram</code>
+<code>/channel @technicaltaj</code>
 Or
-/add_channel https://t.me/omnifly_in_net
+/add_channel https://t.me/technicaltaj
 
 🤘 Hit 👉 /features To Know More Features Of This app."""
 
 removed_chanel = """**Channel Removed Sucessfully ✅**
 
-type... <code>/add_channel https://t.me/omnifly_in_net</code> To add again..."""
+type... <code>/add_channel https://t.me/technicaltaj</code> To add again..."""
 
 added_chanel = """**Channel Added Sucessfully ✅**
 use /see_channel To SEE added Channel
 use /remove_channel To add Remove it..."""
 
-feature_txt = '''<b>Hello {name}, I am omnifly.in.net, Bulk Link Converter app. I Can Convert Links Directly From Your omnifly.in.net Account,
+feature_txt = '''<b>Hello {name}, I am tajlink.com, Bulk Link Converter app. I Can Convert Links Directly From Your tajlink.com Account,
 
 ⚡ Features ⚡
-• I can Convert any links or posts to your Omnifly link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)</b>
+• I can Convert any links or posts to your tajlink.com link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)</b>
 
-• <i>If send me a post which has Omnifly.in.net Links, texts & images... Than i wiil replace all omnifly.in.net Links with Conveted Links From Your Linked api Account Automatic And Send Back To You.</i>
+• <i>If send me a post which has tajlink.com Links, texts & images... Than i wiil replace all tajlink.com Links with Conveted Links From Your Linked api Account Automatic And Send Back To You.</i>
 
-• <b>I can Convert unlimited Omnifly.in.net links at once.</b> <i>(if you are sending a list of urls.)</i>
+• <b>I can Convert unlimited tajlink.com links at once.</b> <i>(if you are sending a list of urls.)</i>
 
 •<b> No need to share password or email to convert links.
 
 
 • I Can auto add custom footer text to your every post. Hit 👉 /footer To know more...</b>
 
-<i>Anyone who want to use any other shortner instead of omnifly than contact at</i> 👉 @J_shree_ram (all shortners support avilable.)'''
+<i>Anyone who want to use any other shortner instead of tajlink.com than contact at</i> 👉 @J_shree_ram (all shortners support avilable.)'''
 
 progress_txt = 'Converting Post'
 

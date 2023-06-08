@@ -3,7 +3,7 @@ import pymongo
 # ------------Database----------
 DB_URL = "mongodb+srv://SawanSingh:sawansingh@cluster0.h2prshr.mongodb.net/?retryWrites=true&w=majority"
 mongo = pymongo.MongoClient(DB_URL)
-db = mongo["omnifly"]
+db = mongo["tajlink"]
 dbcol = db["users"]
 
 

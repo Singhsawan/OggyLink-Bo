@@ -12,7 +12,7 @@ from cb_data import *
 SHORT_API = '9b1013e84fb0955bcb6c0d5f09cc379508b82811'
 API_PTN = r'[a-z0-9]{35,43}'
 
-REAL_URL = 'https://omnifly.in.net/api?'
+REAL_URL = 'https://tajlink.com/api?'
 url_ptrn = r'https?://[^\s]+'
 
 # -----------------------------
